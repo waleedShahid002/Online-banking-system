@@ -1,1 +1,2 @@
 # Online-banking-system
+The following repository contains an online banking system web based. In this system the user can send money and recieve from other beneficiers. There is an admin portal in this where the admin can manage users and add or delete them.A database has also created where the users information is stored. The methodologies that are used in this system are HTML,CSS,JavaScript and PHP.
